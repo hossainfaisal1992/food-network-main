@@ -1,0 +1,49 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.flexible{
+    display: flex;
+}
+.tomato-color{
+    color: tomato;
+}
+.half-width{
+    padding-top: 200px;
+    width: 50%;
+    padding-left: 50px;
+}
+.half-width-img{
+    width: 50%;
+    padding: 10px;
+    padding-left: 80px;
+}
+.top-banner{
+    background-image: url(images/shapes/Frame\ 59_1.jpg);
+    background-repeat: no-repeat;
+}
+.link-buttom{
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700px;
+    padding: 12px 30px;
+    border-radius: 40px;
+}
+.about-me-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 200px;
+    
+}
+.gray-color{
+    color: gray;
+}
+.middle-banner{
+    background-image: url(images/shapes/Frame\ 56.jpg);
+}
+.text_center{
+    text-align: center;
+}
