@@ -42,8 +42,36 @@ body{
     color: gray;
 }
 .middle-banner{
-    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-image: url(images/shapes/Frame\ 58.jpg);
 }
 .text_center{
     text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.recipie-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 2%;
+    margin-top: 2%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+
+}
+.bottom-banner{
+    background-image: url(images/shapes/footer.jpg);
+    width: 100%;
+    height: 300px;
+}
+.orange-color{
+    color: orange;
+    
+}
+
+.network-color{
+    color: white;
+}
+bottom-div-margin{
+    margin-top: 5px;
 }
